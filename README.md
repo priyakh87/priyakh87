@@ -46,9 +46,9 @@ I'm now transitioning into freelance work—open to collaborating on exciting pr
 
 ## 📫 Let's Connect
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: priyakh87@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](#)
-- Twitter: [@yourhandle](#)
+- Twitter: https://x.com/PriyaKh87
 
 ---
 
