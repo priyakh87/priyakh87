@@ -37,7 +37,7 @@ I'm now transitioning into freelance work—open to collaborating on exciting pr
 
 ## 🌱 Portfolio & Highlights
 
-- Check out my [portfolio website](#) _(coming soon)_ for detailed case studies and live demos.
+- Check out my [[portfolio website](https://portfolio-project-nu-coral.vercel.app/)]_ for detailed case studies and live demos.
 - Explore my pinned repositories below for code samples and project highlights.
 
 > **Note:** Many of my most significant contributions are in private/office repositories. Public projects here are a mix of experiments, learnings, and select portfolio pieces as I continue to grow my freelance showcase.
